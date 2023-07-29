@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Luanabilha
-- 👀 I’m interested in learn computer languages
-- 🌱 I’m currently learning css, java script and HTML
--
+<strong>Olá meu nome é Luana Vitória e bem vindos ao meu perfil🙋</strong>
+
+<strong>Eu estou aprendendo programação no Alura💻</strong>
+
+<strong>Eu gosto de aprender programação💻 e de jogar video-game🎮</strong>
 
 
